@@ -2,9 +2,13 @@
 <br>
 <h2>Segundo projeto que aprendi no <a href="https://rodolfomori.com.br/devclub/">DevClub</a></h2>
 <br>
-<img src="https://github.com/Michaelhenri/projeto-HTML-CSS/blob/master/imagen/Easy-Shopping-desktop-phone.png" alt="desktop-logo" align="center" width="500px">
+<a href="https://github.com/Michaelhenri/projeto-Easy-Shopping/edit/master/README.md">
+<img src="https://github.com/Michaelhenri/projeto-Easy-Shopping/blob/master/imagen/Easy-Shopping-desktop-phone.png" 
+  alt="desktop-logo" 
+  width="500px" height="370px"
+/></a>
 
-<p>Esse projeto foi voltado ao aprendizado do HTML, CSS e responsividade.</p>
+:computer: Esse projeto foi voltado ao aprendizado do HTML, CSS e responsividade. <b> Clique na imagem e conheça o site <b>.
 
 ### Tecnologias usadas:
 
