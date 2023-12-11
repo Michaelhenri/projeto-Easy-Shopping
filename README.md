@@ -2,7 +2,7 @@
 <br>
 <h2>Segundo projeto que aprendi no <a href="https://rodolfomori.com.br/devclub/">DevClub</a></h2>
 <br>
-<a href="https://github.com/Michaelhenri/projeto-Easy-Shopping/edit/master/README.md">
+<a href="https://michaelhenri.github.io/projeto-Easy-Shopping/">
 <img src="https://github.com/Michaelhenri/projeto-Easy-Shopping/blob/master/imagen/Easy-Shopping-desktop-phone.png" 
   alt="desktop-logo" 
   width="500px" height="370px"
